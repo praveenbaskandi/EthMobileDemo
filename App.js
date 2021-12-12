@@ -4,7 +4,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import Toast from 'react-native-toast-message';
 
 import configureStore from './src/redux/store';
-import Navigator from '../EthereumDemo/src/navigation';
+import Navigator from '../EthMobileDemo/src/navigation';
 
 const App = () => {
   return (
