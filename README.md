@@ -28,7 +28,7 @@ Based on:
 
 - This image show the list of transaction
 
-<img src="screen_shot/Screenshot_filter.png" width="150" height="300"/>
+<img src="screen_shot/Screenshot_list.png" width="150" height="300"/>
 
 
 
@@ -37,5 +37,5 @@ Based on:
 
 - This image show full details of the transactions.
 
-<img src="screen_shot/Screenshot_offline.png" width="150" height="300"/>
+<img src="screen_shot/Screenshot_details.png" width="150" height="300"/>
 
